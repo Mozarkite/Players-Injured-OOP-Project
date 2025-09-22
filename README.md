@@ -24,10 +24,10 @@ It also supports **in-memory training**, **accuracy evaluation**, and **dynamic 
 ## 📂 Project Structure
 
 ML_Project/
-├── NaiveBayesClassifier.java       # Core classifier implementation
-├── PlayerRecord.java               # Player record model (simple POJO with getters)
-├── MainGUI.java                    # GUI implementation
-├── Control.java                    # Control class used for initializing classes
-├── adjusted_player_injury_dataset.csv   # Example dataset (CSV file, not included here)
-└── README.md                       # Documentation
+- ├── NaiveBayesClassifier.java       # Core classifier implementation
+- ├── PlayerRecord.java               # Player record model (simple POJO with getters)
+- ├── MainGUI.java                    # GUI implementation
+- ├── Control.java                    # Control class used for initializing classes
+- ├── adjusted_player_injury_dataset.csv   # Example dataset (CSV file, not included here)
+- └── README.md                       # Documentation
 
