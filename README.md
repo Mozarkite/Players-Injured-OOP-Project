@@ -29,5 +29,5 @@ ML_Project/
 - ├── MainGUI.java                    # GUI implementation
 - ├── Control.java                    # Control class used for initializing classes
 - ├── adjusted_player_injury_dataset.csv   # Example dataset (CSV file, not included here)
-- └── README.md                       # Documentation
+
 
